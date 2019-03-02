@@ -1,0 +1,15 @@
+{
+  "extends": "eslint-config-airbnb-base",
+  "env": {
+    "browser": true
+  },
+  "rules": {
+    "import/prefer-default-export": 0,
+    "linebreak-style": 0,
+    "no-param-reassign": 0,
+    "no-unused-vars": 0,
+    "no-console": 0,
+    "no-plusplus": 0,
+    "no-else-return": 0
+  }
+}
